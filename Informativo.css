@@ -1,0 +1,47 @@
+#Informativo.css {width: 100%;height: 450px;}
+
+h1{text-align: center; font-size: 35px; color: #89f77f;border: 10px solid #31f831; height: 60px; padding: 10px;}
+
+p{ text-align: justify; font-size: 20px; }
+
+body{background: #55f755;}
+
+.Página-imagem{
+    width: 25%;
+}
+
+#Página{
+    background-image: linear-gradient(#31f831);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.Página-div-conteudo{
+    width: 35%;
+}
+
+
+.Página-titulo{
+    padding: 24px 0;
+}
+.rodaperigth{
+    background-color: #31f831;
+    text-align: right;
+}
+.rodapeleft{
+    background-color: #31f831;
+    text-align: left;
+}
+
+.rodape-imagem{
+    height: 60px;
+    padding: 12px 0;
+   
+}
+.rodapeII-imagem{
+    height: 50px;
+    padding: 9px 0;
+   
+}
